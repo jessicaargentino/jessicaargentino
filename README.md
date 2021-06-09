@@ -2,7 +2,7 @@
 
 Meu nome é Jéssica Argentino, sou estudante de <b>Sistemas de Informação</b> pela <a href=https://www.pucminas.br/main/Paginas/default.aspx><b>PUC-MG</b></a> e desenvolvedora em formação. Atualmente me dedico ao estudo da linguagem <b>Java</b> profissionalmente.
 
-🔭 Eu estou atualmente trabalhando como Estagiária em Desenvolvimento de Sistemas <a href=https://site.bysat.com.br/>BySat</a> <br/>
+🔭 Atualmente eu estou trabalhando como Estagiária em Desenvolvimento de Sistemas <a href=https://site.bysat.com.br/>BySat</a> <br/>
 📫 Como chegar até mim: jessicargentino@gmail.com
 
 <!--
