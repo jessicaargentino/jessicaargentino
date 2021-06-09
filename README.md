@@ -5,6 +5,10 @@ Meu nome é Jéssica Argentino, sou estudante de <b>Sistemas de Informação</b>
 🔭 Atualmente eu estou trabalhando como Estagiária em Desenvolvimento de Sistemas <a href=https://site.bysat.com.br/>BySat</a> <br/>
 📫 Como chegar até mim: jessicargentino@gmail.com
 
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicaargentino&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **jessicaargentino/jessicaargentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
