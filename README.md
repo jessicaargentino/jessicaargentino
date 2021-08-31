@@ -10,9 +10,10 @@ Meu nome é Jéssica Argentino, moro na cidade de Belo Horizonte - Minas Gerais,
 
 
 <br/>
+<div align = "center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicaargentino&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 <!--
 **jessicaargentino/jessicaargentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
