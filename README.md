@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-Meu nome é Jéssica Argentino, sou estudante de <b>Sistemas de Informação</b> pela <a href=https://www.pucminas.br/main/Paginas/default.aspx><b>PUC-MG</b></a> e desenvolvedora em formação. Atualmente me dedico ao estudo da linguagem <b>Java</b> profissionalmente.
+Meu nome é Jéssica Argentino, moro na cidade de Belo Horizonte - Minas Gerais, sou estudante de <b>Sistemas de Informação</b> pela <a href=https://www.pucminas.br/main/Paginas/default.aspx><b>PUC-MG</b></a> e desenvolvedora full-stack em formação. Atualmente me dedico ao estudo de desenvolvimento em <b>Java</b>, mas estou sempre aberta e interessada em tecnologia no geral. Jogos (em especial moba e metroidvania) e kalimba são meus principais hobbies.
 
 <ul>
-  <li>🔭 Atualmente eu estou trabalhando como Estagiária em Desenvolvimento de Sistemas <a href=https://site.bysat.com.br/>BySat</a></li>
+  <li>🔭 Atualmente estou participando da Academia <a href=https://www.capgemini.com/br-pt/>Capgemini</a> para mulheres como Analista de Soluções Customizadas II</li>
   <li>📫 Como chegar até mim: jessicargentino@gmail.com</li>
+  <li>😄 Pronomes: she/her</li>
 </ul>
+
 
 <br/>
 
@@ -16,7 +18,7 @@ Meu nome é Jéssica Argentino, sou estudante de <b>Sistemas de Informação</b>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... <a href=https://site.bysat.com.br/>BySat</a>
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
