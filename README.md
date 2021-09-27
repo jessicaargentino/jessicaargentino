@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é Jéssica Argentino, moro na cidade de Belo Horizonte - Minas Gerais, sou estudante de <b>Sistemas de Informação</b> pela <a href=https://www.pucminas.br/main/Paginas/default.aspx><b>PUC-MG</b></a> e desenvolvedora full-stack em formação. Atualmente me dedico ao estudo de desenvolvimento em <b>Java</b>, mas estou sempre aberta e interessada em tecnologia no geral. Jogos (em especial moba e metroidvania) e kalimba são meus principais hobbies.
+Meu nome é Jéssica Argentino, moro na cidade de Belo Horizonte - Minas Gerais, sou estudante de <b>Sistemas de Informação</b> pela <a href=https://www.pucminas.br/main/Paginas/default.aspx><b>PUC-MG</b></a> e desenvolvedora back-end em formação. Atualmente me dedico ao estudo de desenvolvimento em <b>Java</b>, mas estou sempre aberta e interessada em tecnologia no geral. Jogos (em especial moba e metroidvania) e kalimba são meus principais hobbies.
 
 <ul>
   <li>🔭 Atualmente estou participando da Academia <a href=https://www.capgemini.com/br-pt/>Capgemini</a> para mulheres como Analista de Soluções Customizadas II</li>
